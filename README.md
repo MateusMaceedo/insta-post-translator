@@ -1,10 +1,10 @@
 <img src="https://www.gomarketingschool.com.br/wp-content/uploads/elementor/thumbs/INSTAGRAM-STORIES-ovr0xt8adzhczrn63s9c72pk150ltgocaauqmak7ro.jpg" width="780" height="290">
-
+<p align="justify">
 ## Insta Post Reminder
 Estudos sobre a série de 5 aulas no YouTube para treinarmos Javascript no Browser e app Desktop, aula disponibilizada pelo Mayk Brito. Aqui esta o codigo fonte de todas as aulas, contendo implementações, aplicações, com futuras adaptações para a WEB.
 
 ## Importância dos lembretes
-<p align="justify">
+
 1. Importante: todas as atividades que você faz e que tem importância em sua vida, são aquelas tarefas que trazem resultado a curto, médio ou longo prazo. É a esfera da estrada certa, na qual você coloca seu carro e sabe que na linha de chegada estará realizado.
 
 2. Urgente: é toda tarefa que deve ser feita imediatamente, pois o prazo para execução é curto ou então já acabou. Essas atividades não podem ser previstas, por isso geralmente causam estresse nas pessoas.
