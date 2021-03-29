@@ -4,11 +4,13 @@
 Estudos sobre a série de 5 aulas no YouTube para treinarmos Javascript no Browser e app Desktop, aula disponibilizada pelo Mayk Brito. Aqui esta o codigo fonte de todas as aulas, contendo implementações, aplicações, com futuras adaptações para a WEB.
 
 ## Importância dos lembretes
-- Importante: todas as atividades que você faz e que tem importância em sua vida, são aquelas tarefas que trazem resultado a curto, médio ou longo prazo. É a esfera da estrada certa, na qual você coloca seu carro e sabe que na linha de chegada estará realizado.
+<p align="justify">
+1. Importante: todas as atividades que você faz e que tem importância em sua vida, são aquelas tarefas que trazem resultado a curto, médio ou longo prazo. É a esfera da estrada certa, na qual você coloca seu carro e sabe que na linha de chegada estará realizado.
 
-- Urgente: é toda tarefa que deve ser feita imediatamente, pois o prazo para execução é curto ou então já acabou. Essas atividades não podem ser previstas, por isso geralmente causam estresse nas pessoas.
+2. Urgente: é toda tarefa que deve ser feita imediatamente, pois o prazo para execução é curto ou então já acabou. Essas atividades não podem ser previstas, por isso geralmente causam estresse nas pessoas.
 
-- Circunstancial: tarefas desnecessárias ou excessivas. São os gastos do tempo de forma inútil, tarefas realizadas por comodidade ou por serem “socialmente” apropriadas. É a esfera da estrada que não leva a lugar algum, aquela que não traz resultados, apenas frustrações. Podemos citar como exemplo o uso demasiado da internet, ou os e-mails improdutivos, as conversas fúteis, etc.
+3. Circunstancial: tarefas desnecessárias ou excessivas. São os gastos do tempo de forma inútil, tarefas realizadas por comodidade ou por serem “socialmente” apropriadas. É a esfera da estrada que não leva a lugar algum, aquela que não traz resultados, apenas frustrações. Podemos citar como exemplo o uso demasiado da internet, ou os e-mails improdutivos, as conversas fúteis, etc.
+</p>
 
 ## Assista às aulas
 - [x] [Aula 01: Sistema de Notificação](https://www.youtube.com/watch?v=Mhd6x2Z-F_w)
