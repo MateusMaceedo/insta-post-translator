@@ -1,9 +1,9 @@
 <img src="https://www.gomarketingschool.com.br/wp-content/uploads/elementor/thumbs/INSTAGRAM-STORIES-ovr0xt8adzhczrn63s9c72pk150ltgocaauqmak7ro.jpg" width="780" height="290">
 
-## Importância dos lembretes
+## Insta Post Reminder
 
 <p align="justify">
-## Insta Post Reminder
+Importância dos lembretes
 Estudos sobre a série de 5 aulas no YouTube para treinarmos Javascript no Browser e app Desktop, aula disponibilizada pelo Mayk Brito. Aqui esta o codigo fonte de todas as aulas, contendo implementações, aplicações, com futuras adaptações para a WEB.
 
 1. Importante: todas as atividades que você faz e que tem importância em sua vida, são aquelas tarefas que trazem resultado a curto, médio ou longo prazo. É a esfera da estrada certa, na qual você coloca seu carro e sabe que na linha de chegada estará realizado.
